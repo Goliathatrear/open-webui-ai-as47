@@ -1,4 +1,4 @@
-# 
+# New Open WebUI scripts. Featuring multi-language-support and model-deployment — optimized for maximum performance and efficiency.
 
 
 
